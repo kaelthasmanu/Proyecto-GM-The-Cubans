@@ -1,0 +1,2 @@
+1 - Mapeos, 3dtext, pickups, etc.
+2 - Buttons Filterscript (123.amx).
