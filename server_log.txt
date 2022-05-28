@@ -1,0 +1,38 @@
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[23:16:26] 
+[23:16:26] Server Plugins
+[23:16:26] --------------
+[23:16:26]  Loaded 0 plugins.
+
+[23:16:26] I couldn't load any gamemode scripts. Please verify your server.cfg
+[23:16:26] It needs a gamemode0 line at the very least.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[23:35:14] language = ""  (string)
+[23:35:14] 
+[23:35:14] Server Plugins
+[23:35:14] --------------
+[23:35:14]  Loaded 0 plugins.
+
+[23:35:14] 
+[23:35:14] Filterscripts
+[23:35:14] ---------------
+[23:35:14]   Loaded 0 filterscripts.
+
+[23:35:14] My favourite vehicle is: 'Landstalker'!
+[23:35:14] Number of vehicle models: 0
