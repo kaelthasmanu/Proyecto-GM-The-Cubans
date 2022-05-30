@@ -11,5 +11,7 @@ local: true
 runtime:
     version: 0.3.7
     mode: server
-    rcon_password: password
+    plugins: ["maddinat0r/sscanf"]
+    rcon_password: test
     port: 7777
+
